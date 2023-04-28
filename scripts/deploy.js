@@ -3,7 +3,7 @@ const hre = require("hardhat");
 
 async function main() {
 
-  const Upload = await hre.ethers.getContractFactory("Upload");
+  const Upload = await hre.ethers.getContractFactory("upload");
   const upload = await Upload.deploy();
 
   await upload.deployed();
@@ -12,7 +12,14 @@ async function main() {
 }
 
 
-main().catch((error) => {
-  console.error(error);
-  process.exitCode = 1;
-});
+const runMain = async () => {
+  try {
+    await main();
+    process.exit(0);
+  } catch (error) {
+    console.log(error);
+    process.exit(1);
+  }
+};
+
+runMain();
