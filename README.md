@@ -57,7 +57,7 @@ Deployed app link :  [Decentralized-Storage-System](decentralized-storage-system
 ## Notes
 
 1. Use mumbai network otherwise it will give you an error. 
-2. If you are not able to view the images even after you upload, It may occur because of IPFS issues please try again after sometime.
+2. If you are not able to view the images even after you upload, It may occur because of IPFS issues please try again after sometime. Or please pause the adBlocker on the site.
 3. You can share your images with another address using the share button. This will share all your images uploaded.
 4. If you want to view the images of shared account you type the address of that account and hit display images if you have access of that account you will be able to view it :) 
    
