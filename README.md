@@ -20,6 +20,8 @@ Deployed app link :  [Decentralized-Storage-System](decentralized-storage-system
 
 ![image](https://github.com/Atharv181/Decentralized-Storage-System/assets/73999654/a65f25b1-dc54-4c84-b838-d29accd46b2d)
 ![image](https://github.com/Atharv181/Decentralized-Storage-System/assets/73999654/45490124-4b68-407a-acf4-0f2f0dc04928)
+![image](https://github.com/Atharv181/Decentralized-Storage-System/assets/73999654/8981ea1b-b563-40e6-a846-a1064ef1b18e)
+
 
 
 
